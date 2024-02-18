@@ -16,6 +16,8 @@ This board does protect against overcharging, but not against discharge, so make
 ## PCB
 
 ![PCB](img/pcb.png)
+![3DView](img/3d.png)
+![Dimensions](img/dimen.png)
 
 ## Parts
 
