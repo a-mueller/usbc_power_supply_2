@@ -29,7 +29,7 @@ This board does protect against overcharging, but not against discharge, so make
     <tr><td>R6</td><td><a href="https://uk.farnell.com/panasonic/erjup3j102v/res-1k-5-0-25w-0603/dp/3579508">PANASONIC ERJUP3J102V</a></td></tr>
     <tr><td>U2</td><td><a href="https://uk.farnell.com/microchip/mcp73833-ami-mf/batt-charger-li-ion-pol-1a-dfn/dp/2709765">MICROCHIP MCP73833-AMI/MF</a></td></tr>
     <tr><td>C1,C2,C3</td><td><a href="https://uk.farnell.com/kemet/c0805c106k8pactu/cap-10-f-10v-10-x5r-0805/dp/1463362">KEMET C0805C106K8PACTU</a></td></tr>
-    <tr><td>U1</td><td><a href="https://uk.farnell.com/on-semiconductor/mbr0540t3g/diode-schottky-0-5a-40v-sod-123/dp/2101839">ONSEMI MBR0540T3G</a></td></tr>
+    <tr><td>U1</td><td><a href="https://uk.farnell.com/on-semiconductor/mbr0540t3g/diode-schottky-0-5a-40v-sod-123/dp/2101839">ONSEMI MBR0540T3G (500mA) or PMEG3010EGW (1A)</a></td></tr>
     <tr><td>Q1</td><td><a href="https://uk.farnell.com/diodes-inc/dmg3415ufy4q-7/mosfet-p-ch-16v-2-5a-x2-dfn2015/dp/3943489">DIODES INC. DMG3415UFY4Q-7</a></td></tr>
     <tr><td>R1,R8</td><td><a href="https://uk.farnell.com/panasonic/erj3geyj103v/res-10k-5-0-1w-0603-thick-film/dp/2059627">PANASONIC ERJ3GEYJ103V</a></td></tr>
     <tr><td>J2,J3</td><td>JST PH 2mm connectors</td></tr>
